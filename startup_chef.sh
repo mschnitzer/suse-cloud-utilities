@@ -4,7 +4,6 @@
 #
 # exit status 0: everything was fine :)
 # exit status 1: the script was not runnig on the crowbar node
-# exit status 2: an error occurred
 
 TMP_FILE="startup_chef_script.tmp"
 
